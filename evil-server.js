@@ -4,7 +4,7 @@ var path = require('path'),
   cors = require('cors'),
   iframeReplacement = require('node-iframe-replacement');
 
-var serverPort = process.env.PORT || 5000 ;//the port for running this server
+var serverPort = process.env.PORT || 5000; //the port for running this server
 
 // create an instance of express
 var app = express();
@@ -43,4 +43,6 @@ app.get('/', (req, res) => {
 });
 
 // start the server
-app.listen(serverPort, () =>console.log(`Server running on port ${serverPort}`));
+app.listen(serverPort, () =>
+  console.log(`Server running on port ${serverPort}`)
+);
