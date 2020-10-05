@@ -11,7 +11,7 @@
 
 ## Prequisites:
 	
-	- Have Node + NPM (https://nodejs.org/) and Yarn(https://yarnpkg.com/getting-started/install) installeed
+	- Have Node + NPM (https://nodejs.org/) and Yarn(https://yarnpkg.com/getting-started/install) installed in your computer.
 	
 ## Steps
 	
