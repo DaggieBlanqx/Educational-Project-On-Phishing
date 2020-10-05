@@ -1,0 +1,20 @@
+{
+  "name": "Educational_Project_On_Phishing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "node-iframe-replacement": "^1.0.0"
+  },
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "pm2 reload ecosystem.config.js && pm2 monit",
+    "quickpush": "cls && git status && git add * && git commit * -m \"Updated Code\" && git push",
+    "prettier": "prettier  --single-quote --trailing-comma es5 --write \"{main/components,.,*,__{tests,mocks}__}/**/*.js\""
+  }
+}
+   
