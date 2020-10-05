@@ -1,12 +1,12 @@
 # Educational-Project-On-Phishing
 
+[![Watch the Result Video](Example_Phishing_Using_Javascript_-_NodeJs.gif)](https://www.youtube.com/watch?v=OuDLbgWy11w&feature=youtu.be)
+
 - The source code in here is meant for educational purporses only. No user accounts were compromised in the making of this short tutorial.
 
 - Checkout this twitter thread for the entire flow & context: https://twitter.com/daggieblanqx/status/1311835533677600774.
 
 - Direct message me on twitter for any query.
-
-[![Watch the Result Video](Example_Phishing_Using_Javascript_-_NodeJs.gif)](https://www.youtube.com/watch?v=OuDLbgWy11w&feature=youtu.be)
 
 
 # Installation Instructions:
